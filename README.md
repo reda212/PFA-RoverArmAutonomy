@@ -11,6 +11,9 @@ This repository contains the code and resources for a rover equipped with a KUKA
 ## Repository Structure
 
 *code/*: Contains the code for the rover system, including machine learning algorithms for object detection, ROS packages for communication and control, and MATLAB Simulink models for control theory.
+<br>
 *docs/*: Contains documentation and resources related to the project, including 3D models for environment perception and other project-related documentation.
+<br>
 *data/*: Contains sample data used for training the machine learning algorithms.
+<br>
 *results/*: Contains results and output generated from the project, including logs, visualizations, and performance metrics.
